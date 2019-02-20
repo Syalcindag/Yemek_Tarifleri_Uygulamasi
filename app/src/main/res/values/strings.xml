@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AnimationButton</string>
+
+    <string-array name="corbalar">
+        <item>Ezogelin Çorbası</item>
+        <item>Mercimek Çorbası</item>
+        <item>Domates Çorbası</item>
+        <item>Yayla Çorbası</item>
+        <item>Tarhana Çorbası</item>
+        <item>Şehriye Çorbası</item>
+
+    </string-array>
+</resources>
